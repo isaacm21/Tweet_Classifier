@@ -1,11 +1,11 @@
-# Emergency Tweet Classification and Model Deployment
+# Emergency Tweet Classification and BERT Model Deployment
 October, 2021
 
 In colaboration with Maor Ronen and Magen Lahat
 
 ![](readme_images/flask.png)
 
-We have created a model that classifies whether a tweet
+We have implemented a BERT model that classifies whether a tweet
 is an emergency or not. The model was trained on a dataset
 provided by Kaggle as part of a competition 
 (https://www.kaggle.com/c/nlp-getting-started).
